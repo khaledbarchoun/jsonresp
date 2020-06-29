@@ -1,0 +1,716 @@
+ {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4634075,
+               "lng" : 6.2098429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4646045302915,
+                  "lng" : 6.211204030291502
+               },
+               "southwest" : {
+                  "lat" : 36.4619065697085,
+                  "lng" : 6.208506069708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d7b43518ec089356ef0f07c00843e6974b5388d",
+         "name" : "Fast-food CUM",
+         "place_id" : "ChIJy1Our9kz8hIRo380lg1KfFU",
+         "plus_code" : {
+            "compound_code" : "F675+9W زغاية، الجزائر",
+            "global_code" : "8F88F675+9W"
+         },
+         "rating" : 3,
+         "reference" : "ChIJy1Our9kz8hIRo380lg1KfFU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "زغاية"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4649197,
+               "lng" : 6.1778891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4663857802915,
+                  "lng" : 6.179191230291502
+               },
+               "southwest" : {
+                  "lat" : 36.4636878197085,
+                  "lng" : 6.176493269708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "292e35db6100e9ab8c06735ea82ae4f6ec17e1f8",
+         "name" : "مطعم",
+         "place_id" : "ChIJ14tVPzkz8hIRxeq4qE5B8W4",
+         "plus_code" : {
+            "compound_code" : "F57H+X5 زغاية، الجزائر",
+            "global_code" : "8F88F57H+X5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ14tVPzkz8hIRxeq4qE5B8W4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "N79, Zeraia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4649841,
+               "lng" : 6.1778737
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4664190302915,
+                  "lng" : 6.179187580291503
+               },
+               "southwest" : {
+                  "lat" : 36.4637210697085,
+                  "lng" : 6.176489619708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f0d313788675d4d38c64ca1e0602d07a396a2394",
+         "name" : "مطعم الإخوة لبيض",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJI6gbPzkz8hIRGETCU5iPXAk",
+         "plus_code" : {
+            "compound_code" : "F57H+X4 زغاية، الجزائر",
+            "global_code" : "8F88F57H+X4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJI6gbPzkz8hIRGETCU5iPXAk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "زغاية"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4649456,
+               "lng" : 6.1776102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4663703802915,
+                  "lng" : 6.178935430291502
+               },
+               "southwest" : {
+                  "lat" : 36.4636724197085,
+                  "lng" : 6.176237469708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1a2f9cb371be0872386fb455a910a56aa4274fd4",
+         "name" : "مطعم الزاهي",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ9YAZPjkz8hIR9WbuI2foAR8",
+         "plus_code" : {
+            "compound_code" : "F57H+X2 زغاية، الجزائر",
+            "global_code" : "8F88F57H+X2"
+         },
+         "rating" : 2,
+         "reference" : "ChIJ9YAZPjkz8hIR9WbuI2foAR8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "N79, Zeraia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4649283,
+               "lng" : 6.177535099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4663540302915,
+                  "lng" : 6.178860030291501
+               },
+               "southwest" : {
+                  "lat" : 36.46365606970851,
+                  "lng" : 6.176162069708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f3122f3cb3393ba5ae9f03f17b8360c2c2f11bc3",
+         "name" : "Restaurant Eldjaouhara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJz3b3Pzkz8hIRoWArPCG28io",
+         "plus_code" : {
+            "compound_code" : "F57H+X2 زغاية، الجزائر",
+            "global_code" : "8F88F57H+X2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJz3b3Pzkz8hIRoWArPCG28io",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "N79, Zeraia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4672752,
+               "lng" : 6.1770254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4686213302915,
+                  "lng" : 6.178373630291502
+               },
+               "southwest" : {
+                  "lat" : 36.4659233697085,
+                  "lng" : 6.175675669708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b28309db925a014c3ef2e68a315090b2abf31fb8",
+         "name" : "بيتزيريا عزيز",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ_yKa3T4z8hIRjzCyRlByMlM",
+         "plus_code" : {
+            "compound_code" : "F58G+WR زغاية، الجزائر",
+            "global_code" : "8F88F58G+WR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ_yKa3T4z8hIRjzCyRlByMlM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "W52, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.46659439999999,
+               "lng" : 6.17688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.46793943029149,
+                  "lng" : 6.178172530291501
+               },
+               "southwest" : {
+                  "lat" : 36.4652414697085,
+                  "lng" : 6.175474569708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "00b599b328921e96007b0bc9541caaa03612f144",
+         "name" : "بيتزيريا المحطة",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJY99H1z4z8hIR3mHf1BwPLCk",
+         "plus_code" : {
+            "compound_code" : "F58G+JQ زغاية، الجزائر",
+            "global_code" : "8F88F58G+JQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJY99H1z4z8hIR3mHf1BwPLCk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "rue de l'Indépendance، زغاية"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.46773,
+               "lng" : 6.176867999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4690752302915,
+                  "lng" : 6.178109930291503
+               },
+               "southwest" : {
+                  "lat" : 36.4663772697085,
+                  "lng" : 6.175411969708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e474153aeae01fc0a8a3a4d7ae70dec55dfcf7cc",
+         "name" : "Pizza Bibi",
+         "place_id" : "ChIJrxYNSAAz8hIRYMUeiC9xgPc",
+         "plus_code" : {
+            "compound_code" : "F59G+3P زغاية، الجزائر",
+            "global_code" : "8F88F59G+3P"
+         },
+         "reference" : "ChIJrxYNSAAz8hIRYMUeiC9xgPc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "زغاية"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.44151149999999,
+               "lng" : 6.243390300000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.44286088029149,
+                  "lng" : 6.244702130291502
+               },
+               "southwest" : {
+                  "lat" : 36.44016291970849,
+                  "lng" : 6.242004169708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "95ceab64eb54a254cf313bc2092d1a42eb42888a",
+         "name" : "فواز",
+         "photos" : [
+            {
+               "height" : 534,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114441403202267235425\"\u003eKoko Top\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJnvUVl1dT9hcWmBjZgH1ypuIxuR10FYBx-kEXvhZ4T8coDJTDvmL6ggMPVSE6K0OfctRpWzMEGnQAGuC04frv1lu4uxMm_tPaXTTyu_FjS57s5pGA4nMkS76kyHWyjTiEhDRJhBK9yrkoUAyoD8K0gncGhQjz3qJdbU6inrbVRO7jeEjVEMJXw",
+               "width" : 712
+            }
+         ],
+         "place_id" : "ChIJ6auI1N_T8xIRjGox71a5-jg",
+         "plus_code" : {
+            "compound_code" : "C6RV+J9 ميلة، الجزائر",
+            "global_code" : "8F88C6RV+J9"
+         },
+         "reference" : "ChIJ6auI1N_T8xIRjGox71a5-jg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Unnamed Road"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4691,
+               "lng" : 6.1763013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4704794302915,
+                  "lng" : 6.177658180291502
+               },
+               "southwest" : {
+                  "lat" : 36.4677814697085,
+                  "lng" : 6.174960219708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0841db21cadaa4858aab876f88e50c21068dd1b2",
+         "name" : "بيتزيريا الجوهر",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJeW3lqz8z8hIR0X9zgKsD7Nw",
+         "plus_code" : {
+            "compound_code" : "F59G+JG زغاية، الجزائر",
+            "global_code" : "8F88F59G+JG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJeW3lqz8z8hIR0X9zgKsD7Nw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rue freres Boutrif, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.469155,
+               "lng" : 6.1759163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4705391302915,
+                  "lng" : 6.177274380291501
+               },
+               "southwest" : {
+                  "lat" : 36.46784116970851,
+                  "lng" : 6.174576419708496
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "99ea9a67458341472bc1e24c2ed777d12630b645",
+         "name" : "بيتزيريا تسنيم",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ0ShZrz8z8hIRHw36USyKFTo",
+         "plus_code" : {
+            "compound_code" : "F59G+M9 زغاية، الجزائر",
+            "global_code" : "8F88F59G+M9"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ0ShZrz8z8hIRHw36USyKFTo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rue freres Boutrif, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.46931730000001,
+               "lng" : 6.1757898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4706338302915,
+                  "lng" : 6.177130080291501
+               },
+               "southwest" : {
+                  "lat" : 36.4679358697085,
+                  "lng" : 6.174432119708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2bb5c90907de69a68e0dafbda29c3142ff549331",
+         "name" : "Pizzeria الشاوي",
+         "place_id" : "ChIJbR9pI-wz8hIRNzBsQ6240os",
+         "plus_code" : {
+            "compound_code" : "F59G+P8 زغاية، الجزائر",
+            "global_code" : "8F88F59G+P8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbR9pI-wz8hIRNzBsQ6240os",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Rue freres Boutrif, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.46978589999999,
+               "lng" : 6.175558199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4711233802915,
+                  "lng" : 6.176963630291502
+               },
+               "southwest" : {
+                  "lat" : 36.4684254197085,
+                  "lng" : 6.174265669708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d94017b739eacc3835f568ae295c238f3e70f0a6",
+         "name" : "بيتزيريا بداوي",
+         "place_id" : "ChIJ-xyajD8z8hIRvIBxCeVpxP4",
+         "plus_code" : {
+            "compound_code" : "F59G+W6 زغاية، الجزائر",
+            "global_code" : "8F88F59G+W6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-xyajD8z8hIRvIBxCeVpxP4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rue harati med, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.46689990000001,
+               "lng" : 6.174922599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4682596802915,
+                  "lng" : 6.176215880291502
+               },
+               "southwest" : {
+                  "lat" : 36.4655617197085,
+                  "lng" : 6.173517919708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "38113ce3079ca0e5de4dd1e82a842f14eb6eef60",
+         "name" : "بيتزيريا حسام",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJW-Z5Rj8z8hIRzvPFdVrc1eQ",
+         "plus_code" : {
+            "compound_code" : "F58F+QX زغاية، الجزائر",
+            "global_code" : "8F88F58F+QX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJW-Z5Rj8z8hIRzvPFdVrc1eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Rue ziroud youcef, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.46776180000001,
+               "lng" : 6.1748003
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4690701802915,
+                  "lng" : 6.176136030291502
+               },
+               "southwest" : {
+                  "lat" : 36.46637221970851,
+                  "lng" : 6.173438069708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9479145f9d48a676f9b6a821bc5ae6e6ad4efe86",
+         "name" : "Timgade Restaurant Bouchellia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ4TcxaT8z8hIRYRQZ3GL0egk",
+         "plus_code" : {
+            "compound_code" : "F59F+4W زغاية، الجزائر",
+            "global_code" : "8F88F59F+4W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4TcxaT8z8hIRYRQZ3GL0egk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Rue Elquodes, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4512301,
+               "lng" : 6.2535257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4527821302915,
+                  "lng" : 6.254881780291503
+               },
+               "southwest" : {
+                  "lat" : 36.4500841697085,
+                  "lng" : 6.252183819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3198ba3dd3538bde97a02308413661bf0e9c6686",
+         "name" : "La Casa Pizzeria",
+         "place_id" : "ChIJz6ysl5Et8hIR7Ls-3w-axA4",
+         "plus_code" : {
+            "compound_code" : "F723+FC ميلة، الجزائر",
+            "global_code" : "8F88F723+FC"
+         },
+         "reference" : "ChIJz6ysl5Et8hIR7Ls-3w-axA4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Rue 1er Novembre, Mila"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4677195,
+               "lng" : 6.173463499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.46911643029149,
+                  "lng" : 6.174787930291501
+               },
+               "southwest" : {
+                  "lat" : 36.46641846970849,
+                  "lng" : 6.172089969708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0bef66454d391fa71c521eb34ffaa734729f632b",
+         "name" : "مطعم القدس",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJtRwbmUAz8hIRroAWAmhArhs",
+         "plus_code" : {
+            "compound_code" : "F59F+39 زغاية، الجزائر",
+            "global_code" : "8F88F59F+39"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJtRwbmUAz8hIRroAWAmhArhs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rue Elquodes, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4665486,
+               "lng" : 6.172698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4679314302915,
+                  "lng" : 6.173991630291503
+               },
+               "southwest" : {
+                  "lat" : 36.4652334697085,
+                  "lng" : 6.171293669708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "453fed496f0bb969cea78662b602677a575e82ab",
+         "name" : "بيتزيريا ميلانو",
+         "place_id" : "ChIJAZ50tkAz8hIRER7VzkOf6TU",
+         "plus_code" : {
+            "compound_code" : "F58F+J3 زغاية، الجزائر",
+            "global_code" : "8F88F58F+J3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAZ50tkAz8hIRER7VzkOf6TU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rue palastine, Zeraïa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4748516,
+               "lng" : 6.1744629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4761574302915,
+                  "lng" : 6.175830180291502
+               },
+               "southwest" : {
+                  "lat" : 36.4734594697085,
+                  "lng" : 6.173132219708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9342d2664e1dea00880167c5bd9121987d29eb0",
+         "name" : "بولشراب الطاهر",
+         "photos" : [
+            {
+               "height" : 1160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103916509406765652534\"\u003eSife Eddine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHiXu4pm5sVayGtXUrH0G9SlhDYbBeH63JmKVgtp_ufawXi8JmblpE9cTRpxvkRXWC_I6TQN0D4zLXPN1TeU_zRPWxteZanJNtuGq4JTRX0EFP-krjVXM5KTgwmqtYS-iEhAoUGxyc4bFc_XZy6n_zYifGhShb2sv5g4uUL6JN0V8rT8fZ82ofw",
+               "width" : 652
+            }
+         ],
+         "place_id" : "ChIJuetNqOgz8hIRe3j8C1CmUjA",
+         "plus_code" : {
+            "compound_code" : "F5FF+WQ زغاية، الجزائر",
+            "global_code" : "8F88F5FF+WQ"
+         },
+         "reference" : "ChIJuetNqOgz8hIRe3j8C1CmUjA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Al-Shuaiba Rahal, Zeraia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4748581,
+               "lng" : 6.174461900000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.47616088029149,
+                  "lng" : 6.175830480291503
+               },
+               "southwest" : {
+                  "lat" : 36.4734629197085,
+                  "lng" : 6.173132519708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fd469217ec7556d3b77e21b692e898e95325a4af",
+         "name" : "بولشراب الطاهر",
+         "photos" : [
+            {
+               "height" : 1160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103916509406765652534\"\u003eSife Eddine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy-97BGaw5OY_Ybu_SB8_widrsahb_2xdTc1Y20zd6Jxjg2tIR4FU9Q7byH4vlXOaTFpBw3Qesf5ZvakInhVB_DMm-MY06XD6RskZpX0VKgu3aRB4A26wVsSnoD-bt9boEhCnd7GXAOYYZiZkba-XOKnGGhQi9_iWwgjT1Znuh7vzPSWfALN1Qw",
+               "width" : 652
+            }
+         ],
+         "place_id" : "ChIJRawibN0z8hIRpoKr0ZCK5uA",
+         "plus_code" : {
+            "compound_code" : "F5FF+WQ زغاية، الجزائر",
+            "global_code" : "8F88F5FF+WQ"
+         },
+         "reference" : "ChIJRawibN0z8hIRpoKr0ZCK5uA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Al-Shuaiba Rahal, Zeraia"
+      }
